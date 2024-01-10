@@ -4,10 +4,11 @@ Explore the magic of deep learning in face recognition with our Streamlit web ap
 **Dataset Source:** https://www.kaggle.com/datasets/sushilyadav1998/bollywood-celeb-localized-face-dataset
 Experience the fusion of cutting-edge technology and entertainment in this engaging application, underscoring the evolving capabilities of deep learning in computer vision. The Streamlit interface ensures a seamless user experience, making the quest for your Bollywood doppelgänger both fun and enlightening.
 # Real Time Demo:
+Interface
 ![Screenshot 2024-01-10 204036](https://github.com/subramani2002/Bollywood-Celeb-Look-Alike/assets/67220838/c4052955-d1cd-474d-ba2f-0f443fe8575a)
-                                              interface
+Prediction
 ![Screenshot 2024-01-10 211207](https://github.com/subramani2002/Bollywood-Celeb-Look-Alike/assets/67220838/3749c47d-7c7a-4155-a8db-3c488294d200)
-                                        prediction
+                                       
 # Steps to Run this Project:
 ### 1. Clone the Repository:
    Clone the FaceMatch Bollywood repository to your local machine using the following command:
